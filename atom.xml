@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://belilau.github.io/"/>
-  <updated>2019-06-12T15:42:51.000Z</updated>
+  <updated>2019-06-12T15:45:59.000Z</updated>
   <id>https://belilau.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://belilau.github.io/booksStore/booksStore/2019/June/"/>
     <id>https://belilau.github.io/booksStore/booksStore/2019/June/</id>
     <published>2019-06-11T16:00:00.000Z</published>
-    <updated>2019-06-12T15:42:51.000Z</updated>
+    <updated>2019-06-12T15:45:59.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">你不会永远年轻，但永远有人正在年轻着。</blockquote> <a id="more"></a><blockquote><p><a href="#">用户体验要素</a><br>[美]Jesse James Garrett</p></blockquote><hr><blockquote><p><a href="#">自卑与超越</a><br>[奥地利]阿弗雷德·阿德勒</p></blockquote><hr><blockquote><p><a href="#">致加西亚的信</a><br>[美]阿尔伯特·哈伯德</p></blockquote><hr><blockquote><p><a href="#">你的灯亮着吗？</a><br>[美]Donald C. Gause / Gerald M. Weinberg</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">你不会永远年轻，但永远有人正在年轻着。</blockquote> <a id="more"></a><blockquote><p><a href="#">用户体验要素</a><br>[美]Jesse James Garrett</p></blockquote><hr><blockquote><p><a href="#">致加西亚的信</a><br>[美]阿尔伯特·哈伯德</p></blockquote><hr><blockquote><p><a href="#">你的灯亮着吗？</a><br>[美]Donald C. Gause / Gerald M. Weinberg</p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -105,28 +105,6 @@
   </entry>
   
   <entry>
-    <title>需求弹性</title>
-    <link href="https://belilau.github.io/finance/finance/007%20%E9%9C%80%E6%B1%82%E5%BC%B9%E6%80%A7/"/>
-    <id>https://belilau.github.io/finance/finance/007 需求弹性/</id>
-    <published>2019-04-02T16:00:00.000Z</published>
-    <updated>2019-06-12T14:48:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">弹性小，我涨价，弹性大，我降价</blockquote><a id="more"></a><h6 id="需求弹性大有用处"><a href="#需求弹性大有用处" class="headerlink" title="需求弹性大有用处"></a>需求弹性大有用处</h6><p>首先，企业如果想多赚钱，就必须考虑商品的需求弹性。如果产品需求弹性大，消费者对价格敏感，则可以通过降价的方式刺激需求量的大幅增加，这其实就是我们生活常说的“薄利多销”，也有人称之位“以价换量”。而如果产品需求弹性小，消费者对价格不那么敏感，则可以通过提高价格的方式，拉升整体收入，这也是我们通常说的“奇货可居”。</p><p>其次，当大家都想用低价策略抢夺市场，行业深陷价格战的时候，你的最优策略可能是通过技术创新或效率提升，来优化消费者的体验、提升品牌的附加值，让消费者愿意为你的优质品牌或产品买单。这种做法，叫做“差异化战略”。归根结底，就是想办法降低商品的需求弹性，当消费者对你的商品产生依赖，并且市场上无人能替代时，你就拥有了定价权。</p><h6 id="判断你的商品需求弹性是大还是小，主要看："><a href="#判断你的商品需求弹性是大还是小，主要看：" class="headerlink" title="判断你的商品需求弹性是大还是小，主要看："></a>判断你的商品需求弹性是大还是小，主要看：</h6><p>1、是否是刚需。<br>2、是否可替代。<br>3、消费者调整需求的时间是长还是短。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;弹性小，我涨价，弹性大，我降价&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="finance" scheme="https://belilau.github.io/categories/finance/"/>
-    
-    
-      <category term="finance" scheme="https://belilau.github.io/tags/finance/"/>
-    
-  </entry>
-  
-  <entry>
     <title>凡勃伦商品</title>
     <link href="https://belilau.github.io/finance/finance/008%20%E5%87%A1%E5%8B%83%E4%BC%A6%E5%95%86%E5%93%81/"/>
     <id>https://belilau.github.io/finance/finance/008 凡勃伦商品/</id>
@@ -138,6 +116,28 @@
     <summary type="html">
     
       &lt;blockquote class=&quot;blockquote-center&quot;&gt;越贵越买，不是”傻”，而是”壕”&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="finance" scheme="https://belilau.github.io/categories/finance/"/>
+    
+    
+      <category term="finance" scheme="https://belilau.github.io/tags/finance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>需求弹性</title>
+    <link href="https://belilau.github.io/finance/finance/007%20%E9%9C%80%E6%B1%82%E5%BC%B9%E6%80%A7/"/>
+    <id>https://belilau.github.io/finance/finance/007 需求弹性/</id>
+    <published>2019-04-02T16:00:00.000Z</published>
+    <updated>2019-06-12T14:48:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">弹性小，我涨价，弹性大，我降价</blockquote><a id="more"></a><h6 id="需求弹性大有用处"><a href="#需求弹性大有用处" class="headerlink" title="需求弹性大有用处"></a>需求弹性大有用处</h6><p>首先，企业如果想多赚钱，就必须考虑商品的需求弹性。如果产品需求弹性大，消费者对价格敏感，则可以通过降价的方式刺激需求量的大幅增加，这其实就是我们生活常说的“薄利多销”，也有人称之位“以价换量”。而如果产品需求弹性小，消费者对价格不那么敏感，则可以通过提高价格的方式，拉升整体收入，这也是我们通常说的“奇货可居”。</p><p>其次，当大家都想用低价策略抢夺市场，行业深陷价格战的时候，你的最优策略可能是通过技术创新或效率提升，来优化消费者的体验、提升品牌的附加值，让消费者愿意为你的优质品牌或产品买单。这种做法，叫做“差异化战略”。归根结底，就是想办法降低商品的需求弹性，当消费者对你的商品产生依赖，并且市场上无人能替代时，你就拥有了定价权。</p><h6 id="判断你的商品需求弹性是大还是小，主要看："><a href="#判断你的商品需求弹性是大还是小，主要看：" class="headerlink" title="判断你的商品需求弹性是大还是小，主要看："></a>判断你的商品需求弹性是大还是小，主要看：</h6><p>1、是否是刚需。<br>2、是否可替代。<br>3、消费者调整需求的时间是长还是短。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;弹性小，我涨价，弹性大，我降价&lt;/blockquote&gt;
     
     </summary>
     
@@ -171,17 +171,17 @@
   </entry>
   
   <entry>
-    <title>边际成本</title>
-    <link href="https://belilau.github.io/finance/finance/004%20%E8%BE%B9%E9%99%85%E6%88%90%E6%9C%AC/"/>
-    <id>https://belilau.github.io/finance/finance/004 边际成本/</id>
+    <title>供需定理</title>
+    <link href="https://belilau.github.io/finance/finance/006%20%E4%BE%9B%E9%9C%80%E5%AE%9A%E7%90%86/"/>
+    <id>https://belilau.github.io/finance/finance/006 供需定理/</id>
     <published>2019-04-01T16:00:00.000Z</published>
     <updated>2019-06-12T14:48:24.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">飞机起飞前的座位，甚至可以只卖一块钱。</blockquote> <a id="more"></a><h6 id="飞机每增加一位乘客的成本"><a href="#飞机每增加一位乘客的成本" class="headerlink" title="飞机每增加一位乘客的成本"></a>飞机每增加一位乘客的成本</h6><p>百年的工业经济告诉我们这样一个规律：我们生产一件产品，越标准化越好，越流程化越好，款式越少越好，规模越大越好。为什么呢？你的第一反应可能是，降低成本。是的，关键是，降低什么成本？生产成本？人工成本？采购成本？还是时间成本？这些都没错，但是如果我们再深挖一层，经济学有一个词，叫做边际成本。</p><p>那什么是边际成本呢？</p><p>举一个例子，比如一架飞机的额定载客人数是100人，已经坐了80人，这时候，再多增加一位乘客，增加多少成本呢？是的，几乎没有增加，也就是一份航空餐的钱。但是增加的第一位乘客，是多少成本呢？几乎是整趟航班的成本。所以，夸张一点理解边际成本：飞机起飞钱的座位，理论上可以只卖一块钱。</p><h6 id="经济学的思维就是边际思维"><a href="#经济学的思维就是边际思维" class="headerlink" title="经济学的思维就是边际思维"></a>经济学的思维就是边际思维</h6><p>经济学里，边际成本是生产者理论中的一个概念，是指额外多生产一单位需要付出的成本。相应地，每多销售一单位产品获取的收益就是边际收益。</p><h6 id="深入理解边际成本，我们应该记住这三个概念："><a href="#深入理解边际成本，我们应该记住这三个概念：" class="headerlink" title="深入理解边际成本，我们应该记住这三个概念："></a>深入理解边际成本，我们应该记住这三个概念：</h6><p>1、规模经济，降低边际成本。<br>2、互联网经济，边际成本趋零。<br>3、零边际成本社会，协同共享。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">供不应求，价格上涨。<br>供过于求，价格下跌。</blockquote><a id="more"></a><h6 id="供需关系决定价格"><a href="#供需关系决定价格" class="headerlink" title="供需关系决定价格"></a>供需关系决定价格</h6><p>经济学告诉我们，产品有价，不是因为制造产品有成本，而是因为市场对产品有需求。产品能卖出什么价，是由市场上供给对于需求的相对稀缺性来决定的。供需理论，从18世纪伊始，由多位经济学家陆续提出，其中包括了大名鼎鼎的亚当·斯密（著述《国民财富的性质和原因的研究》简称《国富论》）。可以说，供需理论是经济学体系中奠基性的理论。</p><p>供需关系<br>决定价格，具体是怎么实现的？当市场上存在某种需求，却得不到充分满足，也就是供不应求的时候，生产者就可以按照“价高者得”的逻辑定价，实现自己利益的最大化；然而，当众多商家看好同一个市场，争相涌入，导致供大于求时，消费者就有了选择权，同等品质条件下，人们自然都偏爱更便宜的商品，价格必然会在竞争中下降。最终，供给和需求倾向于达到一种平衡的状态，价格也就稳定在一个均衡点上。</p><h6 id="在商业中给定价进行正确的归因，我们可以："><a href="#在商业中给定价进行正确的归因，我们可以：" class="headerlink" title="在商业中给定价进行正确的归因，我们可以："></a>在商业中给定价进行正确的归因，我们可以：</h6><p>1、抓准真实需求。<br>2、摸清竞争环境。<br>3、垄断更高利润。</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;飞机起飞前的座位，甚至可以只卖一块钱。&lt;/blockquote&gt;
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;供不应求，价格上涨。&lt;br&gt;供过于求，价格下跌。&lt;/blockquote&gt;
     
     </summary>
     
@@ -215,39 +215,17 @@
   </entry>
   
   <entry>
-    <title>供需定理</title>
-    <link href="https://belilau.github.io/finance/finance/006%20%E4%BE%9B%E9%9C%80%E5%AE%9A%E7%90%86/"/>
-    <id>https://belilau.github.io/finance/finance/006 供需定理/</id>
+    <title>边际成本</title>
+    <link href="https://belilau.github.io/finance/finance/004%20%E8%BE%B9%E9%99%85%E6%88%90%E6%9C%AC/"/>
+    <id>https://belilau.github.io/finance/finance/004 边际成本/</id>
     <published>2019-04-01T16:00:00.000Z</published>
     <updated>2019-06-12T14:48:24.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">供不应求，价格上涨。<br>供过于求，价格下跌。</blockquote><a id="more"></a><h6 id="供需关系决定价格"><a href="#供需关系决定价格" class="headerlink" title="供需关系决定价格"></a>供需关系决定价格</h6><p>经济学告诉我们，产品有价，不是因为制造产品有成本，而是因为市场对产品有需求。产品能卖出什么价，是由市场上供给对于需求的相对稀缺性来决定的。供需理论，从18世纪伊始，由多位经济学家陆续提出，其中包括了大名鼎鼎的亚当·斯密（著述《国民财富的性质和原因的研究》简称《国富论》）。可以说，供需理论是经济学体系中奠基性的理论。</p><p>供需关系<br>决定价格，具体是怎么实现的？当市场上存在某种需求，却得不到充分满足，也就是供不应求的时候，生产者就可以按照“价高者得”的逻辑定价，实现自己利益的最大化；然而，当众多商家看好同一个市场，争相涌入，导致供大于求时，消费者就有了选择权，同等品质条件下，人们自然都偏爱更便宜的商品，价格必然会在竞争中下降。最终，供给和需求倾向于达到一种平衡的状态，价格也就稳定在一个均衡点上。</p><h6 id="在商业中给定价进行正确的归因，我们可以："><a href="#在商业中给定价进行正确的归因，我们可以：" class="headerlink" title="在商业中给定价进行正确的归因，我们可以："></a>在商业中给定价进行正确的归因，我们可以：</h6><p>1、抓准真实需求。<br>2、摸清竞争环境。<br>3、垄断更高利润。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">飞机起飞前的座位，甚至可以只卖一块钱。</blockquote> <a id="more"></a><h6 id="飞机每增加一位乘客的成本"><a href="#飞机每增加一位乘客的成本" class="headerlink" title="飞机每增加一位乘客的成本"></a>飞机每增加一位乘客的成本</h6><p>百年的工业经济告诉我们这样一个规律：我们生产一件产品，越标准化越好，越流程化越好，款式越少越好，规模越大越好。为什么呢？你的第一反应可能是，降低成本。是的，关键是，降低什么成本？生产成本？人工成本？采购成本？还是时间成本？这些都没错，但是如果我们再深挖一层，经济学有一个词，叫做边际成本。</p><p>那什么是边际成本呢？</p><p>举一个例子，比如一架飞机的额定载客人数是100人，已经坐了80人，这时候，再多增加一位乘客，增加多少成本呢？是的，几乎没有增加，也就是一份航空餐的钱。但是增加的第一位乘客，是多少成本呢？几乎是整趟航班的成本。所以，夸张一点理解边际成本：飞机起飞钱的座位，理论上可以只卖一块钱。</p><h6 id="经济学的思维就是边际思维"><a href="#经济学的思维就是边际思维" class="headerlink" title="经济学的思维就是边际思维"></a>经济学的思维就是边际思维</h6><p>经济学里，边际成本是生产者理论中的一个概念，是指额外多生产一单位需要付出的成本。相应地，每多销售一单位产品获取的收益就是边际收益。</p><h6 id="深入理解边际成本，我们应该记住这三个概念："><a href="#深入理解边际成本，我们应该记住这三个概念：" class="headerlink" title="深入理解边际成本，我们应该记住这三个概念："></a>深入理解边际成本，我们应该记住这三个概念：</h6><p>1、规模经济，降低边际成本。<br>2、互联网经济，边际成本趋零。<br>3、零边际成本社会，协同共享。</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;供不应求，价格上涨。&lt;br&gt;供过于求，价格下跌。&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="finance" scheme="https://belilau.github.io/categories/finance/"/>
-    
-    
-      <category term="finance" scheme="https://belilau.github.io/tags/finance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>沉没成本</title>
-    <link href="https://belilau.github.io/finance/finance/003%20%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC/"/>
-    <id>https://belilau.github.io/finance/finance/003 沉没成本/</id>
-    <published>2019-03-31T16:00:00.000Z</published>
-    <updated>2019-06-12T14:48:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">因为”来都来了”，所以”将错就错”</blockquote> <a id="more"></a><h6 id="要继续等公交车吗？"><a href="#要继续等公交车吗？" class="headerlink" title="要继续等公交车吗？"></a>要继续等公交车吗？</h6><p>我们来玩一个游戏，假设你是个北京的打工仔，月收入5000元，扣除五险一金，到手4000多元。你租了个房子2000元，剩下2000多，就是你一个月的全部零花钱，吃饭、买衣服、买化妆品、玩游戏都是从这2000多里出。你此刻在一个公交站，要去一个地方办事，这件事重要但不紧急。你坐公交车去2元，打车去62。假设没有其他的交通工具可供选择，走也走不到，你打车走吗？</p><p>此刻一定有一些土豪和富婆打车走了，但是估计绝大多数会继续选择等公交。10分钟过去了，公交车没有来，你打车走吗？</p><p>估计绝大部分人还在等，20分钟过去了，公交车没有来，你打车走吗？</p><p>估计至少一半的人还在等公交车，40分钟过去了，公交车还没来，你打车走吗？</p><p>现在有一些同学极度动摇，虽然还没打车，但是内心已经很崩溃了。1个小时过去了，公交车还没来，你打车走吗？</p><h6 id="魔咒-“来都来了”"><a href="#魔咒-“来都来了”" class="headerlink" title="魔咒 “来都来了”"></a>魔咒 “来都来了”</h6><p>人并不总是理性的，在做决策时总回被已经发生在过去的成本所影响，经济学上将这种已经发生且无法收回的投入，称为”沉没成本”(sunk cost)。对大部分人来说，有一个四字魔咒永远绕不开，那就是”来都来了”。只要你”来都来了”，你就会买不算便宜的门票，冲破人山人海，逛遍没看头的景点；只要你”来都来了”,你就会强迫自己吃掉盘子里那难以下咽的饭菜；只要你”来都来了”，你就会说服自己坚持看完让人昏昏欲睡的电影。</p><p>经济学并不能告诉我们，已经等了一个小时以后，是不是继续等下去。但是它告诉我们，在这个时间点做决策，无论如何，这一个小时已经沉没了，请完全不要考虑这个沉没掉的成本。你是否继续等下去，只取决于这个时间点，你认为公交车还要多长时间能来。</p><h6 id="面对沉没成本，我们可以学到："><a href="#面对沉没成本，我们可以学到：" class="headerlink" title="面对沉没成本，我们可以学到："></a>面对沉没成本，我们可以学到：</h6><p>1、敢于 “半途而废”<br>2、让人 “欲罢不能”<br>3、创造 “覆水难收”</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;因为”来都来了”，所以”将错就错”&lt;/blockquote&gt;
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;飞机起飞前的座位，甚至可以只卖一块钱。&lt;/blockquote&gt;
     
     </summary>
     
@@ -270,6 +248,28 @@
     <summary type="html">
     
       &lt;blockquote class=&quot;blockquote-center&quot;&gt;放弃掉的鱼，就是你选择熊掌的代价。&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="finance" scheme="https://belilau.github.io/categories/finance/"/>
+    
+    
+      <category term="finance" scheme="https://belilau.github.io/tags/finance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>沉没成本</title>
+    <link href="https://belilau.github.io/finance/finance/003%20%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC/"/>
+    <id>https://belilau.github.io/finance/finance/003 沉没成本/</id>
+    <published>2019-03-31T16:00:00.000Z</published>
+    <updated>2019-06-12T14:48:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">因为”来都来了”，所以”将错就错”</blockquote> <a id="more"></a><h6 id="要继续等公交车吗？"><a href="#要继续等公交车吗？" class="headerlink" title="要继续等公交车吗？"></a>要继续等公交车吗？</h6><p>我们来玩一个游戏，假设你是个北京的打工仔，月收入5000元，扣除五险一金，到手4000多元。你租了个房子2000元，剩下2000多，就是你一个月的全部零花钱，吃饭、买衣服、买化妆品、玩游戏都是从这2000多里出。你此刻在一个公交站，要去一个地方办事，这件事重要但不紧急。你坐公交车去2元，打车去62。假设没有其他的交通工具可供选择，走也走不到，你打车走吗？</p><p>此刻一定有一些土豪和富婆打车走了，但是估计绝大多数会继续选择等公交。10分钟过去了，公交车没有来，你打车走吗？</p><p>估计绝大部分人还在等，20分钟过去了，公交车没有来，你打车走吗？</p><p>估计至少一半的人还在等公交车，40分钟过去了，公交车还没来，你打车走吗？</p><p>现在有一些同学极度动摇，虽然还没打车，但是内心已经很崩溃了。1个小时过去了，公交车还没来，你打车走吗？</p><h6 id="魔咒-“来都来了”"><a href="#魔咒-“来都来了”" class="headerlink" title="魔咒 “来都来了”"></a>魔咒 “来都来了”</h6><p>人并不总是理性的，在做决策时总回被已经发生在过去的成本所影响，经济学上将这种已经发生且无法收回的投入，称为”沉没成本”(sunk cost)。对大部分人来说，有一个四字魔咒永远绕不开，那就是”来都来了”。只要你”来都来了”，你就会买不算便宜的门票，冲破人山人海，逛遍没看头的景点；只要你”来都来了”,你就会强迫自己吃掉盘子里那难以下咽的饭菜；只要你”来都来了”，你就会说服自己坚持看完让人昏昏欲睡的电影。</p><p>经济学并不能告诉我们，已经等了一个小时以后，是不是继续等下去。但是它告诉我们，在这个时间点做决策，无论如何，这一个小时已经沉没了，请完全不要考虑这个沉没掉的成本。你是否继续等下去，只取决于这个时间点，你认为公交车还要多长时间能来。</p><h6 id="面对沉没成本，我们可以学到："><a href="#面对沉没成本，我们可以学到：" class="headerlink" title="面对沉没成本，我们可以学到："></a>面对沉没成本，我们可以学到：</h6><p>1、敢于 “半途而废”<br>2、让人 “欲罢不能”<br>3、创造 “覆水难收”</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;因为”来都来了”，所以”将错就错”&lt;/blockquote&gt;
     
     </summary>
     
@@ -391,28 +391,6 @@
   </entry>
   
   <entry>
-    <title>To Make You Feel My Love</title>
-    <link href="https://belilau.github.io/music/music/To-Make-You-Feel-My-Love/"/>
-    <id>https://belilau.github.io/music/music/To-Make-You-Feel-My-Love/</id>
-    <published>2019-02-06T16:00:00.000Z</published>
-    <updated>2019-06-12T14:48:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="aplayer" data-id="16435050" data-server="netease" data-type="song" data-mode="single"></div><a id="more"></a><p>When the rain is blowing in your face,<br>(当雨打湿了你的脸庞)</p><p>and the whole world is on your case,<br>(当世界将你抛下)</p><p>I could offer you a warm embrace,<br>(我可以给你一个温暖的拥抱)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p><p>When the evening shadows and the stars appear,<br>(当夜幕降临，星光点点)</p><p>and there is no one there to dry your tears,<br>(当无人为你擦去泪水)</p><p>I cloud hold you for a million years,<br>(我愿永世将你捧在手心)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p><p>I know you haven’t made your mind up yet,<br>(我知道你还没有做出决定)</p><p>but I would never do you wrong.<br>(但是我没有看错你)</p><p>I’ve known it from the moment that we met,<br>(我知道与你相遇的那一刻起)</p><p>no doubt in my mind where you belong.<br>(我就心有所属)</p><p>I’d go hungry; I’d go black and blue,<br>(我愿意为你受尽苦难)</p><p>I’d go crawling down the avenue.<br>(我愿意为你吃尽苦头)</p><p>No, there’s nothing that I wouldn’t do,<br>(没有任何我不能做的)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p><p>The storms are raging on the rolling sea<br>(在波涛汹涌的海上暴风雨在怒号)</p><p>and on the highway of regret.<br>(在遗憾的路上)</p><p>Though winds of change are throwing wild and free,<br>(尽管风在肆虐)</p><p>you ain’t seen nothing like me yet.<br>(你看不懂任何像我一样的)</p><p>I cloud make you happy, make your dreams come true.<br>(我能使你开心，我能使你梦想成真)</p><p>Nothing that I wouldn’t do.<br>(我愿为你做任何事情)</p><p>Go to the ends of the Earth for you,<br>(哪怕是为你一起走向世界的尽头)</p><p>to make you feel my love<br>(让你感受到我的爱)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;div class=&quot;aplayer&quot; data-id=&quot;16435050&quot; data-server=&quot;netease&quot; data-type=&quot;song&quot; data-mode=&quot;single&quot;&gt;&lt;/div&gt;
-    
-    </summary>
-    
-      <category term="music" scheme="https://belilau.github.io/categories/music/"/>
-    
-    
-      <category term="music" scheme="https://belilau.github.io/tags/music/"/>
-    
-  </entry>
-  
-  <entry>
     <title>2019年旅行计划</title>
     <link href="https://belilau.github.io/travel/travel/20190207/"/>
     <id>https://belilau.github.io/travel/travel/20190207/</id>
@@ -454,6 +432,28 @@
     
     
       <category term="movie" scheme="https://belilau.github.io/tags/movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>To Make You Feel My Love</title>
+    <link href="https://belilau.github.io/music/music/To-Make-You-Feel-My-Love/"/>
+    <id>https://belilau.github.io/music/music/To-Make-You-Feel-My-Love/</id>
+    <published>2019-02-06T16:00:00.000Z</published>
+    <updated>2019-06-12T14:48:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="aplayer" data-id="16435050" data-server="netease" data-type="song" data-mode="single"></div><a id="more"></a><p>When the rain is blowing in your face,<br>(当雨打湿了你的脸庞)</p><p>and the whole world is on your case,<br>(当世界将你抛下)</p><p>I could offer you a warm embrace,<br>(我可以给你一个温暖的拥抱)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p><p>When the evening shadows and the stars appear,<br>(当夜幕降临，星光点点)</p><p>and there is no one there to dry your tears,<br>(当无人为你擦去泪水)</p><p>I cloud hold you for a million years,<br>(我愿永世将你捧在手心)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p><p>I know you haven’t made your mind up yet,<br>(我知道你还没有做出决定)</p><p>but I would never do you wrong.<br>(但是我没有看错你)</p><p>I’ve known it from the moment that we met,<br>(我知道与你相遇的那一刻起)</p><p>no doubt in my mind where you belong.<br>(我就心有所属)</p><p>I’d go hungry; I’d go black and blue,<br>(我愿意为你受尽苦难)</p><p>I’d go crawling down the avenue.<br>(我愿意为你吃尽苦头)</p><p>No, there’s nothing that I wouldn’t do,<br>(没有任何我不能做的)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p><p>The storms are raging on the rolling sea<br>(在波涛汹涌的海上暴风雨在怒号)</p><p>and on the highway of regret.<br>(在遗憾的路上)</p><p>Though winds of change are throwing wild and free,<br>(尽管风在肆虐)</p><p>you ain’t seen nothing like me yet.<br>(你看不懂任何像我一样的)</p><p>I cloud make you happy, make your dreams come true.<br>(我能使你开心，我能使你梦想成真)</p><p>Nothing that I wouldn’t do.<br>(我愿为你做任何事情)</p><p>Go to the ends of the Earth for you,<br>(哪怕是为你一起走向世界的尽头)</p><p>to make you feel my love<br>(让你感受到我的爱)</p><p>to make you feel my love.<br>(让你感受到我的爱)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;aplayer&quot; data-id=&quot;16435050&quot; data-server=&quot;netease&quot; data-type=&quot;song&quot; data-mode=&quot;single&quot;&gt;&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="music" scheme="https://belilau.github.io/categories/music/"/>
+    
+    
+      <category term="music" scheme="https://belilau.github.io/tags/music/"/>
     
   </entry>
   
